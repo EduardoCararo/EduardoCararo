@@ -17,7 +17,7 @@ I'm a beginner software developer passionate about learning and building real-wo
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/seunome](https://www.linkedin.com/in/eduardocararo/))
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]([https://instagram.com/seuperfil](https://www.instagram.com/cararo.eduardo/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eduardocararo/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/cararo.eduardo/)
 
 Let’s grow and build together! 🌱
