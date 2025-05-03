@@ -26,11 +26,11 @@ Let’s grow and build together! 🌱
 
 ## 🚀 GitHub Stats & Most Used Languages
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoCararo&show_icons=true&theme=radical&hide=prs,issues&count_private=true&border_radius=12&icon_color=F8D866" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardocararo&show_icons=true&theme=radical&hide=prs,issues&count_private=true&icon_color=ff79c6&text_color=ffffff&bg_color=0d1117" height="180em"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCararo&layout=compact&langs_count=6&theme=radical&border_radius=12" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocararo&layout=compact&langs_count=6&theme=radical&hide_title=false&text_color=ffffff&bg_color=0d1117" height="180em"/>
 
 </div>
 
