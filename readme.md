@@ -21,3 +21,16 @@ I'm a beginner software developer passionate about learning and building real-wo
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/cararo.eduardo/)
 
 Let’s grow and build together! 🌱
+
+---
+
+## 🚀 GitHub Stats & Most Used Languages
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoCararo&show_icons=true&theme=radical&hide=prs,issues&count_private=true&border_radius=12&icon_color=F8D866" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCararo&layout=compact&langs_count=6&theme=radical&border_radius=12" />
+
+</div>
+
